@@ -106,7 +106,7 @@ centrifugo gentoken -u 123722
 </html>
 ```
 
-and now start the page, open brower console you will see something likes bellow:
+and now start the page, open browser console you will see something likes bellow:
 
 ```shell
 permission denied
