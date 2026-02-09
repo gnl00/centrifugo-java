@@ -201,7 +201,11 @@ You can, but Centrifugo does not have such an API. What you have to do to ensure
 
 ---
 
+## Example
 
+![example architecture](./assets/example.png)
+
+---
 
 ## Reference
 
